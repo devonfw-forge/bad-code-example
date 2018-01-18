@@ -1,3 +1,10 @@
+# build folders
+target
+eclipse-target
+
+# Hidden files
+.*
+
 # Compiled class file
 *.class
 
